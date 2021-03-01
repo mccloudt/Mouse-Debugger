@@ -1,0 +1,38 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 461.53 594">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #fff;
+        stroke: #1d1d1b;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        stroke-width: 0.5px;
+      }
+
+      .cls-3, .cls-4 {
+        font-size: 34px;
+        fill: #1d1d1b;
+        font-family: AGahnsangsoo2012-M-KSCpc-EUC-H, AGahnsangsoo2012;
+      }
+
+      .cls-4 {
+        writing-mode: tb;
+        text-orientation: upright;
+        glyph-orientation-vertical: 0deg;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" x="32.03" y="0.5" width="429" height="593"/>
+  <rect class="cls-1" x="32.03" y="0.5" width="196" height="218"/>
+  <rect class="cls-1" x="265.03" y="0.5" width="196" height="218"/>
+  <path class="cls-2" d="M319,336H282V118h37Z" transform="translate(-53.97 -117.5)"/>
+  <rect class="cls-1" x="9.03" y="246.5" width="23" height="71"/>
+  <rect class="cls-1" x="9.03" y="317.5" width="23" height="77"/>
+  <text class="cls-3" transform="translate(102.66 109.5)">Left</text>
+  <text class="cls-3" transform="translate(339.31 109.5)">Right</text>
+  <text class="cls-4" transform="translate(245.07 11.5)">Middle</text>
+  <text class="cls-4" transform="translate(17 260)">F</text>
+  <text class="cls-4" transform="translate(17 338)">B</text>
+</svg>
